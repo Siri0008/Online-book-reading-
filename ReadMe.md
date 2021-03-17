@@ -29,7 +29,7 @@ A responsive website that displays available books in the store, along with thei
 - Thats it. Open https://localhost/project/Welcome.php in your browser
 
 ### Implemented by:
-- Used PHP and Java Sricp as Back-end Developing.
+- Used PHP and Java Script as Back-end Developing.
 - Used HTML,CSS,Boot strap for front-end Developing.
 - MySQL for  database storing and managing data.
 - For testing purpose images instead of books are used.
